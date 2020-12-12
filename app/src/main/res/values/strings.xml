@@ -1,0 +1,16 @@
+<resources>
+    <string name="Mecha_Sonic_Sounds">Mecha Sonic Sounds </string>
+    <string name="fight_me">fight_me</string>
+    <string name="eat_you">eat_you</string>
+    <string name="gotta_be_kidding">gotta_be_kidding</string>
+    <string name="you_did_it">you_did_it</string>
+    <string name="i_m_sorry">i_m_sorry</string>
+    <string name="look_tasty">look_tasty</string>
+    <string name="tremble" />
+    <string name="dieeeeee" />
+    <string name="Strongest" />
+    <string name="grunts" />
+    <string name="Enough" />
+    <string name="diee" />
+    <string name="Die" />
+</resources>
